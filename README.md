@@ -1,4 +1,4 @@
-# MenuSystemTest
+# Particle Menu System
 
 A simple menu system made for particle based boards.
 
